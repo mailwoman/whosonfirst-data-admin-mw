@@ -194,8 +194,7 @@
     "src:geom":"naturalearth",
     "wof:belongsto":[
         102191573,
-        85632383,
-        85675089
+        85632383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,14 +207,13 @@
         {
             "continent_id":102191573,
             "country_id":85632383,
-            "locality_id":1141908941,
-            "region_id":85675089
+            "locality_id":1141908941
         }
     ],
     "wof:id":1141908941,
     "wof:lastmodified":1690846549,
     "wof:name":"Chiromo",
-    "wof:parent_id":85675089,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mw",
     "wof:superseded_by":[],
